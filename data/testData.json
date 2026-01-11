@@ -1,0 +1,13 @@
+{
+  "product": {
+    "name": "Sony vaio i5"
+  },
+  "order": {
+    "name": "Gregorius",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "card": "4111111111111111",
+    "month": "12",
+    "year": "2026"
+  }
+}
